@@ -1,5 +1,4 @@
 # Amazon-Globel-sales
-Amazon Global Sales Data Analysis Project
 Objective:-
 The primary objective of this project is to analyze Amazon’s global sales data to understand sales trends, customer behavior, and distribution efficiency. With increasing competition, businesses must optimize sales management strategies to reduce costs and maximize profits. This project aims to develop data-driven insights that enhance decision-making in commercial and business enterprises.
 
